@@ -22,14 +22,6 @@
     </div>
 <div class="content col-sm-6">
 
- <?php
-        
-            $sql = "SELECT * FROM pm_ethos_sections WHERE ContentID = 1 LIMIT 1";
-            $result = $conn->query($sql);
-
-            if ($result->num_rows > 0) {
-                // output data of each row
-                while($row = $result->fetch_assoc()) { ?>
 
 <h3 class="subheadf subhomef"><?php echo $row['Title'];?></h3>
 <p class="font buttonspace">
