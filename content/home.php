@@ -30,7 +30,7 @@
     </div>
     </div>
     
-    <?php } } ?>
+    
     
     
 <div class="row">
