@@ -26,7 +26,7 @@
 	        	<div id="navbar" class="navbar-collapse collapse">
 	          		<ul class="nav navbar-nav navbar-right">
 	       
-	           	 	
+	           	 	<li><a href="?page=contact">HOME</a></li>
                         <li><a href="?page=contact">CONTACT</a></li>
 	          		</ul>
 	        	</div><!--/.nav-collapse -->
