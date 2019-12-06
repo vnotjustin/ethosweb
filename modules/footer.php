@@ -12,25 +12,12 @@
                  <div class="col-md-6 col-sm-12 col-xs-12 text-left">
                   <ul class="menu list-inline">
                              
-                         <li>
+						 <li>
                             <a href="?page=home">Home</a>
-                          </li> 
-                           
-                        <li>
-                            <a href="?page=blog">Blog</a>
-                         </li>    
-                                       
-                          <li>
-                             <a href="?page=about">About</a>
-                          </li>
-                               
+                          </li>                           
                           <li>
                             <a href="?page=contact">Contact</a>
                          </li>
-                              
-                          <li>
-                            <a href="?page=schedule">Schedule</a>
-                         </li>  
                
                  </ul>
                </div>

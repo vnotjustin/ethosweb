@@ -4,18 +4,8 @@
       <a href="?page=home"><img src="images/logo.png" class="logo"></a>
      
      <ul class="noback nav navbar-nav navbar-right navspace nav">
-        <li role="presentation" class="dropdown">
-                <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"> SERVICES <span class="caret"></span>
-                        </a>
-                    <ul class="dropdown-menu">
-                    <li><a href="?page=training">TRAINING</a></li>
-                    <li><a href="?page=consulting">CONSULTING</a></li>
-                    </ul>
-                                      </li>
-        <li><a href="?page=blog">BLOG</a></li>                              
-        <li><a href="?page=about">ABOUT</a></li>
+       
         <li><a href="?page=contact">CONTACT</a></li>
-        <li><a href="?page=schedule">SCHEDULE</a></li>
       </ul>
   </div><!-- /.container-fluid -->
   <hr class="navhr">
@@ -36,17 +26,8 @@
 	        	<div id="navbar" class="navbar-collapse collapse">
 	          		<ul class="nav navbar-nav navbar-right">
 	       
-	           	 		<li class="dropdown">
-		              		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">SERVICES <span class="caret"></span></a>
-		              		<ul class="dropdown-menu">
-		              		<li><a href="?page=training">TRAINING</a></li>
-                            <li><a href="?page=consulting">CONSULTING</a></li>
-		              		</ul>
-	            		</li>
-	            		 <li><a href="?page=blog">BLOG</a></li>                              
-                          <li><a href="?page=about">ABOUT</a></li>
+	           	 	
                         <li><a href="?page=contact">CONTACT</a></li>
-                        <li><a href="?page=schedule">SCHEDULE</a></li>
 	          		</ul>
 	        	</div><!--/.nav-collapse -->
 	      	</div>

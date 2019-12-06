@@ -15,22 +15,12 @@
                          <li>
                             <a href="?page=home">Home</a>
                           </li> 
-                           
-                        <li>
-                            <a href="?page=blog">Blog</a>
-                         </li>    
-                                       
-                          <li>
-                             <a href="?page=about">About</a>
-                          </li>
+
                                
                           <li>
                             <a href="?page=contact">Contact</a>
                          </li>
-                              
-                          <li>
-                            <a href="?page=schedule">Schedule</a>
-                         </li>  
+
                
                  </ul>
                </div>
