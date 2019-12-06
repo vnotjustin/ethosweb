@@ -42,14 +42,6 @@
     
     </div>
     
-   <?php
-        
-            $sql = "SELECT * FROM pm_ethos_sections WHERE ContentID = 4 LIMIT 1";
-            $result = $conn->query($sql);
-
-            if ($result->num_rows > 0) {
-                // output data of each row
-                while($row = $result->fetch_assoc()) { ?>  
     
     
 <div class="row">
@@ -78,14 +70,6 @@
     
     </div>
   
-   <?php
-        
-            $sql = "SELECT * FROM pm_ethos_sections WHERE ContentID = 5 LIMIT 1";
-            $result = $conn->query($sql);
-
-            if ($result->num_rows > 0) {
-                // output data of each row
-                while($row = $result->fetch_assoc()) { ?>  
         
 <div class="row">
 <div class="content col-sm-6">
