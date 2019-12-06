@@ -1,4 +1,3 @@
-<?php require('db_conn.php');?>
 <?php
 require('modules/header.php'); //Header Information   
 require('modules/nav.php'); //Nav Bar
