@@ -22,7 +22,7 @@
 
 <h3 class="subheadf subhomef">Equip</h3>
 <p class="font buttonspace">
-  <?php echo $row['HTML'];?> </p>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacinia maximus sodales. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam erat volutpat. Duis a mattis enim. Fusce semper tempor tempus. Sed vel orci eget est dapibus ullamcorper in eu libero. Vivamus accumsan orci eget mi hendrerit, at pharetra tortor egestas. Maecenas ac efficitur justo. Aenean pulvinar nisi sit amet dui fringilla, sit amet volutpat est convallis. Vivamus faucibus, ipsum vitae egestas scelerisque, mauris ligula aliquet odio, in tempor elit eros vitae magna. Phasellus nec sem sagittis, placerat nisi eu, ultrices neque. Nullam a quam felis. Integer consectetur tincidunt magna id sagittis. Nunc ac mi mattis, viverra purus quis, ultricies nisl. </p>
    <a class="navbutton buttonmarg1 headf zbig" href="#">Learn More</a>
     </div>
     </div>
@@ -59,7 +59,7 @@
 <div class="content col-sm-6">
 
 <h3 class="subheadf subhomef">Train</h3>
-<p class="font buttonspace"><?php echo $row['HTML'];?>  </p>
+<p class="font buttonspace">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacinia maximus sodales. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam erat volutpat. Duis a mattis enim. Fusce semper tempor tempus. Sed vel orci eget est dapibus ullamcorper in eu libero. Vivamus accumsan orci eget mi hendrerit, at pharetra tortor egestas. Maecenas ac efficitur justo. Aenean pulvinar nisi sit amet dui fringilla, sit amet volutpat est convallis. Vivamus faucibus, ipsum vitae egestas scelerisque, mauris ligula aliquet odio, in tempor elit eros vitae magna. Phasellus nec sem sagittis, placerat nisi eu, ultrices neque. Nullam a quam felis. Integer consectetur tincidunt magna id sagittis. Nunc ac mi mattis, viverra purus quis, ultricies nisl.  </p>
    <a class="navbutton buttonmarg1 headf zbig" href="#">Learn More</a>
     </div>
     </div>
@@ -94,7 +94,7 @@
 <div class="content col-sm-6">
 
 <h3 class="subheadf subhomef">Survive</h3>
-<p class="font buttonspace"><?php echo $row['HTML'];?> </p>
+<p class="font buttonspace">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacinia maximus sodales. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam erat volutpat. Duis a mattis enim. Fusce semper tempor tempus. Sed vel orci eget est dapibus ullamcorper in eu libero. Vivamus accumsan orci eget mi hendrerit, at pharetra tortor egestas. Maecenas ac efficitur justo. Aenean pulvinar nisi sit amet dui fringilla, sit amet volutpat est convallis. Vivamus faucibus, ipsum vitae egestas scelerisque, mauris ligula aliquet odio, in tempor elit eros vitae magna. Phasellus nec sem sagittis, placerat nisi eu, ultrices neque. Nullam a quam felis. Integer consectetur tincidunt magna id sagittis. Nunc ac mi mattis, viverra purus quis, ultricies nisl.</p>
    <a class="navbutton buttonmarg1 headf zbig" href="#">Learn More</a>
     </div>
     </div>  
