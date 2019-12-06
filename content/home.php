@@ -6,9 +6,6 @@
     <img src="images/button.png" alt="button" class="button" onclick="scrollOne()"> </div> 
     
 </div>
-
-
-    
     </div>
 
 
@@ -18,12 +15,12 @@
 
 <div class="row">
 <div class="content col-sm-6">
-<img src="<?php echo $row['Image_Source'];?>" alt="ethos" class="homeimg">
+<img src="images/ethos2.png" alt="ethos" class="homeimg">
     </div>
 <div class="content col-sm-6">
 
 
-<h3 class="subheadf subhomef"><?php echo $row['Title'];?></h3>
+<h3 class="subheadf subhomef">Equip</h3>
 <p class="font buttonspace">
   <?php echo $row['HTML'];?> </p>
    <a class="navbutton buttonmarg1 headf zbig" href="#">Learn More</a>
@@ -57,11 +54,11 @@
     
 <div class="row">
 <div class="content col-sm-6">
-<img src="<?php echo $row['Image_Source'];?>" alt="firearms" class="homeimg">
+<img src="images/placefirearms2.png" alt="firearms" class="homeimg">
     </div>
 <div class="content col-sm-6">
 
-<h3 class="subheadf subhomef"><?php echo $row['Title'];?></h3>
+<h3 class="subheadf subhomef">Train</h3>
 <p class="font buttonspace"><?php echo $row['HTML'];?>  </p>
    <a class="navbutton buttonmarg1 headf zbig" href="#">Learn More</a>
     </div>
@@ -92,11 +89,11 @@
         
 <div class="row">
 <div class="content col-sm-6">
-<img src="<?php echo $row['Image_Source'];?>" alt="consulting" class="homeimg">
+<img src="/images/consulting2.png" alt="consulting" class="homeimg">
     </div>
 <div class="content col-sm-6">
 
-<h3 class="subheadf subhomef"><?php echo $row['Title'];?></h3>
+<h3 class="subheadf subhomef">Survive</h3>
 <p class="font buttonspace"><?php echo $row['HTML'];?> </p>
    <a class="navbutton buttonmarg1 headf zbig" href="#">Learn More</a>
     </div>
