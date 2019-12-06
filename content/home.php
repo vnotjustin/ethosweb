@@ -56,7 +56,7 @@
     </div>
     </div>
     
-      <?php } } ?>
+   
     
 <div class="row">   
 <div class="parallax3 rel">
@@ -84,7 +84,7 @@
     </div>  
     
     </div>
-  <?php } } ?>
+
 
 <script src="JavaScript/smoothscroll.js"></script>
 <script>
